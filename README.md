@@ -16,7 +16,7 @@ to keep learning about computer science.
 const Andrea = {
   pronouns: "her",
   code: [Python],
-  tools: [Docker, Jupyter-Lab, Streamlit, Numpy, Pandas, Matplotlib, Scikit-learn],
+  tools: [Docker, Jupyter-Lab, Streamlit, Numpy, Pandas, Matplotlib, Scikit-learn, Pytorch],
   techCommunities: {
                         Menber: "Factoria-F5-AI-Bootcamp-1-Edicion",
                       },
